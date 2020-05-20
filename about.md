@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About 
 * I'm currently a student at **North Carolina State University**.  
 * I will be completing my *Graduate Certificate in Applied Statistics and Data Management* this semester. 
 
