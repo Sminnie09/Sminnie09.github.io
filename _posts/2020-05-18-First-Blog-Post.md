@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ST558 Blog Post 
+title: ST558 Blog Post  
 ---
 
 I think being a data scientist is about being able to analyze large datasets through the use of different programming languages and the use of statistics to make predictions. Data scientists also have to be able to identify patterns in the data in order to draw conclusions. One of the most important things about being a data scientist is being able to communicate the findings from the data to the business or whoever is the audience.
