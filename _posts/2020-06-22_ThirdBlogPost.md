@@ -1,3 +1,8 @@
+--
+layout: post
+title: ST558 Blog Post
+---
+
 The course is going well so far. It is very 
 challenging, but I have learned alot of new things including
 Rmarkdown to create documents and GitHub for version control.
