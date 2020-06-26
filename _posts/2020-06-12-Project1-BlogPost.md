@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ST558 Project 1 Blog Post
+title: ST558 Project 1 Blog Post 06-12-2020
 ---
 
 The vignette created for project 1 discusses background on JSON data, the packages available to read JSON data into R, functions to pull data from APIs, contingency tables, numeric summaries, and plots. The vignette includes five functions that retrieve data from the ‘NHL Records Franchise’ API. The data pulled from the API include: franchise data, franchise team totals, season records, goalie records, and skater records.  The link to the Github repository is here: https://sminnie09.github.io/ST558Project1Repo/
