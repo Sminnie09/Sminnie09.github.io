@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ST558 Blog Post
+title: ST558 Blog Post 06-22-2020
 ---
 
 The course is going well so far. It is very 
