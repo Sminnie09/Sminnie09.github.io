@@ -1,5 +1,5 @@
 ---
 layout: post
-title: ST558 Blog Post
+title: ST558 Blog Post 05-28-2020
 ---
 I have used a few other programming languages, either for school or for work, including Python, SAS, and SQL. R is my favorite language because it has a lot of built-in functions and it is very intuitive, making it easy to learn. My favorite functionality about R is using RStudio, I like being able to see the data sets that I am working with rather than waiting until the end. I also like RMarkdown and being able to put text in between code blocks. I also like that you can run R code line by line, it makes it easier to debug code. I don’t miss anything about the other languages. I don’t consider R to be a difficult language to learn, it was the easiest language to learn compared to other languages. I knew R prior to this course because I used it to handle large data sets when I worked as an environmental consultant. When I first learned R I taught the language to myself by watching videos online and information online. This class will give me a more formal understanding of the language and its capabilities.
